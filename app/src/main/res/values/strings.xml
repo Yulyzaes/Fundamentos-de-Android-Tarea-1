@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tarea1PrimerProyectoEnAndroidStudio</string>
+    <string name="Saludo">¡Hola, empecemos!</string>
+    <string name="Boton">Entrar</string>
+</resources>
